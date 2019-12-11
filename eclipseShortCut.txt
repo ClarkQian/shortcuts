@@ -1,0 +1,37 @@
+ctrl+shift+/ 块注释
+ctrl + m 放大窗口/缩小窗口
+ctrl + f6 切换窗口（已打开的）
+ctrl+shift+y 字母变成小写
+ctrl+shift+x 字母变成大写
+ctrl + D 删除行
+ctrl + atl + ↑/↓ 多行复制
+alt+ ↑/↓ 多行移动
+
+ctrl + shift + o 导入/删除所有的包
+atl + shift + J 快速添加注释 java doc
+
+alt + shift + z 快速包裹代码
+
+f2 重命名
+
+ctrl + q快速回到上一次的位置
+
+refactor
+alt + shift + r 重命名变量
+
+查看函数：
+shift + 鼠标放在上面
+ctrl + o 看函数结构
+
+alt + ← / → 向前、向后
+
+ctrl + shift + t 快速到类
+
+ctrl + shift + p 到匹配的括号
+
+ctrl + j 增量查找
+
+调试：
+1. 变量赋值
+2. 条件断点（右键）
+3. 异常端点(breakpoints -> 感叹号)
